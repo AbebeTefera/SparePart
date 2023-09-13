@@ -1,0 +1,4 @@
+/* Header button denial*/
+#navPrice,#navAdmin,#navReport,#navOrder,#navProduct,#navStore,#navInvoice{
+	display: none;
+}
