@@ -16,7 +16,7 @@ SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
 /*!40101 SET NAMES utf8 */;
 
 --
--- Database: `spare_part`
+-- Database: `spare_part` for stock management system
 --
 CREATE DATABASE `spare_part` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci; 
 USE `spare_part`;
